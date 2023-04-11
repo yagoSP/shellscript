@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "BACKUO INICIADO"
+echo "BACKUP INICIADO"
 
 #COLETA DE DATA E HORA
 DATAHORA=`date +%b-%d-%y`
